@@ -1,3 +1,3 @@
 # Friday_Assistant_Prototype
 
-In Progress
+Just a prototype, changes will be made here in future....
